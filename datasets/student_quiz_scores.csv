@@ -1,0 +1,101 @@
+Student_ID,Topic_Name,Quiz_Score,Difficulty_Level,Attempt_Number,Time_Taken(mins),Passed(Yes/No)
+S001,Supervised Learning,59,Hard,2,47,Yes
+S001,Unsupervised Learning,50,Easy,1,13,Yes
+S001,Regression,61,Easy,2,10,Yes
+S001,Classification,54,Easy,1,22,Yes
+S001,Clustering,93,Medium,3,39,Yes
+S002,Supervised Learning,100,Hard,2,10,Yes
+S002,Unsupervised Learning,71,Medium,3,23,Yes
+S002,Regression,55,Hard,2,21,Yes
+S002,Classification,62,Medium,3,16,Yes
+S002,Clustering,41,Easy,1,27,No
+S003,Supervised Learning,44,Easy,3,36,No
+S003,Unsupervised Learning,65,Medium,1,48,Yes
+S003,Regression,80,Hard,3,21,Yes
+S003,Classification,77,Easy,2,34,Yes
+S003,Clustering,98,Easy,1,31,Yes
+S004,Supervised Learning,84,Hard,3,46,Yes
+S004,Unsupervised Learning,89,Medium,1,27,Yes
+S004,Regression,97,Medium,2,44,Yes
+S004,Classification,87,Hard,2,14,Yes
+S004,Clustering,54,Medium,3,13,Yes
+S005,Supervised Learning,81,Medium,1,35,Yes
+S005,Unsupervised Learning,69,Easy,2,37,Yes
+S005,Regression,93,Medium,3,19,Yes
+S005,Classification,71,Hard,1,36,Yes
+S005,Clustering,48,Hard,2,13,No
+S006,Supervised Learning,89,Hard,3,37,Yes
+S006,Unsupervised Learning,66,Easy,2,43,Yes
+S006,Regression,57,Medium,2,41,Yes
+S006,Classification,42,Easy,3,43,No
+S006,Clustering,85,Easy,3,29,Yes
+S007,Supervised Learning,50,Hard,1,11,Yes
+S007,Unsupervised Learning,84,Easy,1,17,Yes
+S007,Regression,88,Easy,3,52,Yes
+S007,Classification,62,Hard,1,49,Yes
+S007,Clustering,78,Easy,3,59,Yes
+S008,Supervised Learning,73,Hard,2,31,Yes
+S008,Unsupervised Learning,97,Medium,2,17,Yes
+S008,Regression,60,Hard,1,13,Yes
+S008,Classification,86,Hard,1,26,Yes
+S008,Clustering,97,Medium,3,29,Yes
+S009,Supervised Learning,75,Easy,3,41,Yes
+S009,Unsupervised Learning,85,Easy,1,57,Yes
+S009,Regression,67,Easy,2,22,Yes
+S009,Classification,47,Hard,2,45,No
+S009,Clustering,84,Hard,3,51,Yes
+S010,Supervised Learning,52,Medium,3,17,Yes
+S010,Unsupervised Learning,51,Medium,3,48,Yes
+S010,Regression,81,Medium,1,19,Yes
+S010,Classification,56,Hard,2,46,Yes
+S010,Clustering,55,Hard,1,19,Yes
+S011,Supervised Learning,61,Hard,3,26,Yes
+S011,Unsupervised Learning,85,Easy,2,46,Yes
+S011,Regression,76,Hard,2,20,Yes
+S011,Classification,99,Easy,3,15,Yes
+S011,Clustering,51,Easy,2,40,Yes
+S012,Supervised Learning,92,Hard,3,16,Yes
+S012,Unsupervised Learning,54,Easy,1,46,Yes
+S012,Regression,40,Medium,3,53,No
+S012,Classification,87,Medium,1,51,Yes
+S012,Clustering,65,Medium,3,30,Yes
+S013,Supervised Learning,84,Easy,1,43,Yes
+S013,Unsupervised Learning,68,Hard,3,36,Yes
+S013,Regression,45,Easy,1,52,No
+S013,Classification,68,Medium,2,51,Yes
+S013,Clustering,41,Medium,3,31,No
+S014,Supervised Learning,68,Hard,2,11,Yes
+S014,Unsupervised Learning,45,Medium,2,22,No
+S014,Regression,82,Easy,3,16,Yes
+S014,Classification,78,Medium,2,55,Yes
+S014,Clustering,79,Easy,1,60,Yes
+S015,Supervised Learning,100,Hard,3,43,Yes
+S015,Unsupervised Learning,49,Easy,3,27,No
+S015,Regression,87,Easy,1,54,Yes
+S015,Classification,79,Hard,3,46,Yes
+S015,Clustering,59,Easy,1,12,Yes
+S016,Supervised Learning,72,Hard,1,60,Yes
+S016,Unsupervised Learning,47,Hard,2,38,No
+S016,Regression,68,Medium,1,50,Yes
+S016,Classification,53,Medium,3,27,Yes
+S016,Clustering,91,Easy,3,54,Yes
+S017,Supervised Learning,48,Medium,1,50,No
+S017,Unsupervised Learning,85,Easy,2,20,Yes
+S017,Regression,58,Easy,2,42,Yes
+S017,Classification,97,Easy,1,29,Yes
+S017,Clustering,79,Hard,1,30,Yes
+S018,Supervised Learning,66,Hard,1,34,Yes
+S018,Unsupervised Learning,62,Medium,1,35,Yes
+S018,Regression,58,Medium,2,39,Yes
+S018,Classification,92,Medium,1,51,Yes
+S018,Clustering,59,Medium,3,19,Yes
+S019,Supervised Learning,56,Hard,1,35,Yes
+S019,Unsupervised Learning,85,Easy,2,17,Yes
+S019,Regression,53,Hard,1,22,Yes
+S019,Classification,46,Medium,2,45,No
+S019,Clustering,94,Easy,2,55,Yes
+S020,Supervised Learning,86,Easy,2,41,Yes
+S020,Unsupervised Learning,93,Easy,2,26,Yes
+S020,Regression,72,Easy,2,60,Yes
+S020,Classification,46,Hard,2,49,No
+S020,Clustering,62,Hard,2,50,Yes

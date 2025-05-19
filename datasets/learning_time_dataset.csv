@@ -1,0 +1,61 @@
+Student_ID,Lesson_Name,Time_Spent(mins),Completion_Status,Revision_Count,Date
+S016,Linear Regression,25,Completed,2,2025-05-08
+S004,Decision Trees,19,Completed,2,2025-05-15
+S001,K-Means Clustering,23,Completed,0,2025-05-12
+S014,Unsupervised Learning,20,Completed,0,2025-05-10
+S008,Naive Bayes,26,Incomplete,0,2025-05-11
+S002,Introduction to AI,36,Incomplete,3,2025-05-07
+S008,Model Evaluation,12,Completed,3,2025-05-14
+S002,Naive Bayes,11,Incomplete,1,2025-05-08
+S006,Logistic Regression,42,Incomplete,2,2025-05-03
+S010,K-Means Clustering,17,Incomplete,1,2025-05-12
+S018,Model Evaluation,14,Completed,1,2025-05-06
+S001,PCA,12,Incomplete,1,2025-05-06
+S002,PCA,44,Completed,3,2025-05-02
+S002,Decision Trees,55,Completed,1,2025-05-11
+S014,Logistic Regression,14,Completed,0,2025-05-10
+S015,Model Evaluation,10,Incomplete,1,2025-05-02
+S011,K-Means Clustering,20,Completed,0,2025-05-05
+S007,Unsupervised Learning,19,Incomplete,0,2025-05-04
+S011,Naive Bayes,15,Completed,0,2025-05-13
+S017,Decision Trees,21,Incomplete,0,2025-05-08
+S003,Supervised Learning,17,Incomplete,1,2025-05-12
+S012,Naive Bayes,23,Incomplete,0,2025-05-14
+S016,PCA,50,Incomplete,3,2025-05-11
+S001,PCA,31,Incomplete,0,2025-05-14
+S004,K-Means Clustering,17,Completed,0,2025-05-07
+S012,Model Evaluation,8,Completed,2,2025-05-08
+S002,Logistic Regression,45,Completed,1,2025-05-01
+S017,K-Means Clustering,13,Completed,2,2025-05-03
+S004,Decision Trees,33,Completed,2,2025-05-11
+S017,PCA,44,Completed,0,2025-05-11
+S017,Supervised Learning,28,Completed,2,2025-05-14
+S019,Logistic Regression,21,Completed,3,2025-05-05
+S009,Logistic Regression,39,Incomplete,2,2025-05-08
+S018,Introduction to AI,7,Incomplete,0,2025-05-15
+S004,Introduction to AI,57,Completed,2,2025-05-05
+S015,Supervised Learning,56,Incomplete,3,2025-05-04
+S008,K-Means Clustering,44,Completed,2,2025-05-02
+S016,Unsupervised Learning,30,Completed,3,2025-05-06
+S012,Naive Bayes,8,Incomplete,3,2025-05-11
+S004,PCA,60,Completed,3,2025-05-14
+S005,Naive Bayes,23,Incomplete,3,2025-05-08
+S011,K-Means Clustering,48,Completed,0,2025-05-01
+S005,Naive Bayes,9,Completed,0,2025-05-09
+S007,Supervised Learning,6,Completed,0,2025-05-06
+S005,K-Means Clustering,17,Completed,2,2025-05-01
+S013,Decision Trees,34,Completed,3,2025-05-10
+S006,PCA,60,Incomplete,0,2025-05-10
+S012,Supervised Learning,46,Completed,1,2025-05-04
+S009,Unsupervised Learning,33,Incomplete,2,2025-05-09
+S003,Model Evaluation,50,Incomplete,2,2025-05-06
+S019,Unsupervised Learning,39,Completed,0,2025-05-07
+S018,K-Means Clustering,13,Completed,1,2025-05-04
+S018,Unsupervised Learning,29,Completed,1,2025-05-13
+S003,Logistic Regression,6,Incomplete,1,2025-05-11
+S005,Model Evaluation,27,Completed,3,2025-05-11
+S004,Introduction to AI,55,Incomplete,1,2025-05-07
+S013,Supervised Learning,8,Completed,1,2025-05-08
+S016,Model Evaluation,14,Completed,3,2025-05-11
+S007,Linear Regression,18,Completed,2,2025-05-07
+S001,Unsupervised Learning,6,Completed,1,2025-05-06

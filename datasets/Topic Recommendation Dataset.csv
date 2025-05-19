@@ -1,0 +1,11 @@
+Student_ID,Last_Completed_Topic,Current_Level,Preferred_Style,Recommended_Topic,Time_Stamp
+S001,Introduction to AI,Beginner,Video,Machine Learning,2025-05-15 10:00:00
+S002,Linear Regression,Intermediate,Text,Neural Networks,2025-05-14 14:30:00
+S003,Data Preprocessing,Beginner,Quiz-Based,Supervised Learning,2025-05-16 09:15:00
+S004,Neural Networks,Advanced,Video,Deep Learning,2025-05-15 16:45:00
+S005,Machine Learning,Intermediate,Text,Model Evaluation,2025-05-13 11:20:00
+S006,Data Visualization,Beginner,Quiz-Based,Feature Engineering,2025-05-16 08:50:00
+S007,Supervised Learning,Intermediate,Video,Unsupervised Learning,2025-05-14 12:00:00
+S008,Model Evaluation,Advanced,Text,Hyperparameter Tuning,2025-05-15 15:30:00
+S009,Feature Engineering,Beginner,Quiz-Based,Data Cleaning,2025-05-16 10:00:00
+S010,Unsupervised Learning,Intermediate,Video,Clustering,2025-05-14 09:00:00

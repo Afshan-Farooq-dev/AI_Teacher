@@ -1,0 +1,31 @@
+Student_ID,Question_Text,Topic_Name,Difficulty_Tag,Answered_By_AI,Time_of_Question
+S007,What are the assumptions of linear regression?,Dimensionality Reduction,Hard,Yes,2025-05-01 12:43
+S005,How does PCA work in dimensionality reduction?,Unsupervised Learning,Hard,No,2025-05-01 10:22
+S001,What is the difference between supervised and unsupervised learning?,Unsupervised Learning,Hard,No,2025-05-06 11:39
+S006,Explain K-means clustering with example.,Unsupervised Learning,Hard,No,2025-05-06 15:28
+S018,What are the assumptions of linear regression?,Unsupervised Learning,Hard,Yes,2025-05-12 12:07
+S016,What are the assumptions of linear regression?,Unsupervised Learning,Hard,Yes,2025-05-03 11:31
+S018,How is logistic regression different from linear regression?,Unsupervised Learning,Easy,Yes,2025-05-06 15:40
+S017,What is overfitting in machine learning?,Classification,Hard,No,2025-05-07 11:09
+S013,How is logistic regression different from linear regression?,Dimensionality Reduction,Easy,No,2025-05-05 13:50
+S007,Can we use Naive Bayes for text classification?,Classification,Hard,Yes,2025-05-10 9:58
+S006,How does a decision tree work?,Unsupervised Learning,Hard,Yes,2025-05-14 16:04
+S009,How is logistic regression different from linear regression?,Dimensionality Reduction,Hard,No,2025-05-08 11:56
+S011,How is logistic regression different from linear regression?,Clustering,Hard,Yes,2025-05-05 17:30
+S019,What is the role of the cost function in ML?,Classification,Easy,No,2025-05-12 17:59
+S014,How is logistic regression different from linear regression?,Dimensionality Reduction,Easy,No,2025-05-13 11:09
+S018,What is the role of the cost function in ML?,Supervised Learning,Hard,Yes,2025-05-12 11:00
+S007,What are the assumptions of linear regression?,Clustering,Hard,Yes,2025-05-08 10:17
+S003,How is logistic regression different from linear regression?,Supervised Learning,Easy,No,2025-05-06 15:36
+S020,What is the role of the cost function in ML?,Clustering,Hard,Yes,2025-05-15 17:42
+S002,What is the difference between supervised and unsupervised learning?,Unsupervised Learning,Hard,Yes,2025-05-07 10:55
+S007,What are the evaluation metrics for classification models?,Dimensionality Reduction,Hard,No,2025-05-07 17:31
+S012,What are the assumptions of linear regression?,Dimensionality Reduction,Hard,No,2025-05-12 16:29
+S012,How is logistic regression different from linear regression?,Dimensionality Reduction,Hard,Yes,2025-05-13 12:34
+S003,What is the role of the cost function in ML?,Clustering,Hard,No,2025-05-02 9:44
+S011,What are the assumptions of linear regression?,Classification,Hard,No,2025-05-14 15:03
+S011,Explain K-means clustering with example.,Clustering,Easy,No,2025-05-04 13:35
+S017,What is overfitting in machine learning?,Classification,Easy,No,2025-05-11 12:16
+S014,How is logistic regression different from linear regression?,Regression,Hard,No,2025-05-01 10:30
+S007,What is the role of the cost function in ML?,Unsupervised Learning,Hard,Yes,2025-05-12 17:59
+S014,What is the role of the cost function in ML?,Supervised Learning,Easy,No,2025-05-15 17:30

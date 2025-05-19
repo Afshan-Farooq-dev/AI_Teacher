@@ -1,0 +1,21 @@
+Student_ID,Date,Lesson_Name,Quiz_Score,Assignment_Score,Participation_Score,Improvement_Flag,Engagement_Level
+S015,2025-05-03,Decision Trees,33,72,10,Yes,Low
+S010,2025-05-06,Model Evaluation,94,82,7,No,Medium
+S005,2025-05-10,Logistic Regression,65,23,6,No,Low
+S004,2025-05-12,Linear Regression,84,49,4,Yes,Medium
+S011,2025-05-01,Supervised Learning,56,68,7,No,High
+S001,2025-05-14,K-Means Clustering,100,80,3,No,Medium
+S013,2025-05-09,Naive Bayes,12,19,4,Yes,Low
+S007,2025-05-05,Introduction to AI,47,54,9,Yes,High
+S008,2025-05-13,Unsupervised Learning,74,77,3,No,Medium
+S002,2025-05-02,PCA,31,33,6,Yes,High
+S003,2025-05-04,Logistic Regression,50,23,7,Yes,Low
+S014,2025-05-07,Supervised Learning,61,92,3,No,Low
+S006,2025-05-01,Decision Trees,82,68,5,No,High
+S009,2025-05-11,Model Evaluation,78,72,8,Yes,Medium
+S012,2025-05-10,K-Means Clustering,41,87,10,No,High
+S001,2025-05-08,Naive Bayes,29,55,4,Yes,Medium
+S010,2025-05-03,Introduction to AI,36,64,7,No,Medium
+S015,2025-05-06,Linear Regression,87,90,10,No,High
+S004,2025-05-13,PCA,44,71,2,Yes,Low
+S011,2025-05-07,Unsupervised Learning,92,65,9,No,Medium

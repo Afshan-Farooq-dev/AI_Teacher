@@ -1,0 +1,11 @@
+Student_ID,Login_Frequency,Avg_Session_Time,Focus_Level,Content_Viewed,Active_Hours
+S001,5,45,High,12,Morning
+S002,3,30,Medium,8,Evening
+S003,7,60,High,15,Afternoon
+S004,2,20,Low,5,Night
+S005,6,50,Medium,10,Morning
+S006,4,40,High,11,Afternoon
+S007,3,25,Low,6,Evening
+S008,5,35,Medium,9,Morning
+S009,7,55,High,14,Afternoon
+S010,1,15,Low,3,Night
